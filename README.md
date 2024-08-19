@@ -1,3 +1,4 @@
+![Descripción de la imagen](pbix billonarios .png)
 # 📈 Proyecto Data Insights Billonarios: ETL y Visualización en Power BI
 
 El objetivo era realizar la creación de un perfil sociodemografico de las personas más ricas del mundo para concer patrones de comportamiento por país y por nivel educativo, teniendo en cuenta algunas caracteristicas personales como su signo del zodiaco.
@@ -5,6 +6,8 @@ El objetivo era realizar la creación de un perfil sociodemografico de las perso
 Además, usaremos Power BI para  crear visualizaciones interactivas y atractivas que contarán historias con dato y así poder comunicar de manera efectiva y persuasiva los insights obtenidos durante el análisis y limpieza previo.
 
 En el presente proyecto tomamos un dataset sobre billonarios existentes en el mundo  de la página de [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset).
+
+   
 ## 🗂️ Fases del Proyecto
 
 ### 🔍 Fase 1: Transformación de los Datos
