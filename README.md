@@ -36,4 +36,5 @@ Análisis y Visualización en Power BI: Creación de dashboards interactivos en 
 
 ## 📋 Equipo
 
-El proyecto ha sido creado por: Raquel Pedraza
+El proyecto ha sido creado por: @Raquel Pedraza https://github.com/RaquelPedraza
+
