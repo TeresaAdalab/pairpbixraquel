@@ -1,4 +1,4 @@
-![Descripción de la imagen](pbix billonarios .png)
+![Mi Imagen](C:\Users\maria\OneDrive\Escritorio\BOOTCAMP ADALAB 2024\adalab2\Pair\Modulo 4\PBI/pbix billonarios.png)
 # 📈 Proyecto Data Insights Billonarios: ETL y Visualización en Power BI
 
 El objetivo era realizar la creación de un perfil sociodemografico de las personas más ricas del mundo para concer patrones de comportamiento por país y por nivel educativo, teniendo en cuenta algunas caracteristicas personales como su signo del zodiaco.
